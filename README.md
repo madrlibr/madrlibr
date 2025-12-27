@@ -3,8 +3,7 @@
 I'm learning AI Engineering and Full Stack Dev.
 I love science, math, and a cup of coffe at 3 AM😊
 
-I'm focusing on building project that can be usefull or have educational value and
-open source so y'all can use it👍
+I'm focusing on building open-source project that can be usefull or have educational value👍
 
 ### Tech Stack
 
@@ -17,8 +16,6 @@ open source so y'all can use it👍
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
-
-Top Project:
 
 ## Projects i'd like to show
 
