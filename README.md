@@ -27,4 +27,6 @@ I'm focusing on building open-source project that can be usefull or have educati
 #### Python library to autogenerate folder structure
 
 
+[![Repo 1](https://img.shields.io/badge/Github-pystruct-181717?style=for-the-badge&logo=github)](https://github.com/madrlibr/PandasBot)
 
+#### Chatbot that can run Pandas function
