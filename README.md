@@ -1,4 +1,6 @@
-## Hi there i'm Rill👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20Rill!%20👋&fontSize=70&animation=fadeIn" />
+</p>
 
 I'm learning AI Engineering and Full Stack Developer.
 I love science, math, and a cup of coffe at 3 AM😊
@@ -10,6 +12,7 @@ I'm focusing on building open-source project that can be usefull or have educati
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=FastAPI&logoColor=white)
@@ -27,6 +30,14 @@ I'm focusing on building open-source project that can be usefull or have educati
 #### Python library to autogenerate folder structure
 
 
-[![Repo 1](https://img.shields.io/badge/Github-pandasbot-181717?style=for-the-badge&logo=github)](https://github.com/madrlibr/PandasBot)
+[![Repo 2](https://img.shields.io/badge/Github-pandasbot-181717?style=for-the-badge&logo=github)](https://github.com/madrlibr/PandasBot)
 
 #### Chatbot that can run Pandas function
+
+
+## Now playing:
+<p align="center">
+  <a href="https://open.spotify.com/user/31mp5crrj5dw2uqcosu3x3sspexy">
+    <img src="https://novatorem-spotify-player.vercel.app/api/now-playing?uid=31mp5crrj5dw2uqcosu3x3sspexy&theme=dark" alt="Spotify Now Playing" />
+  </a>
+</p>
