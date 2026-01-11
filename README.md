@@ -26,18 +26,8 @@ I'm focusing on building open-source project that can be usefull or have educati
 ## Projects i'd like to show
 
 [![Repo 1](https://img.shields.io/badge/Github-pystruct-181717?style=for-the-badge&logo=github)](https://github.com/madrlibr/Pystruct)
-
-#### Python library to autogenerate folder structure
-
-
 [![Repo 2](https://img.shields.io/badge/Github-pandasbot-181717?style=for-the-badge&logo=github)](https://github.com/madrlibr/PandasBot)
 
-#### Chatbot that can run Pandas function
 
 
-## Now playing:
-<p align="center">
-  <a href="https://open.spotify.com/user/31mp5crrj5dw2uqcosu3x3sspexy">
-    <img src="https://novatorem-spotify-player.vercel.app/api/now-playing?uid=31mp5crrj5dw2uqcosu3x3sspexy&theme=dark" alt="Spotify Now Playing" />
-  </a>
-</p>
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=madrlibr)
