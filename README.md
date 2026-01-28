@@ -21,6 +21,7 @@ Here i'm trying to build open-source projects that have a real use case or are a
 
 
 ---
+
 ## Top Projects
 
 [![Repo 1](https://img.shields.io/badge/Github-pystruct-181717?style=for-the-badge&logo=github)](https://github.com/madrlibr/Pystruct)
