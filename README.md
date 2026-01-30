@@ -25,7 +25,7 @@ Here i'm trying to build open-source projects that have a real use case or are a
 ## Top Projects
 
 [![Repo 1](https://img.shields.io/badge/Github-pystruct-181717?style=for-the-badge&logo=github)](https://github.com/madrlibr/Pystruct)
-[![Repo 2](https://img.shields.io/badge/Github-pandasbot-181717?style=for-the-badge&logo=github)](https://github.com/madrlibr/PandasBot)
+[![Repo 2](https://img.shields.io/badge/Github-pandasai-181717?style=for-the-badge&logo=github)](https://github.com/madrlibr/PandasBot)
 
 ## Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=madrlibr&theme=jolly&hide_border=false)<br/>
