@@ -20,7 +20,6 @@ Here i'm trying to build open-source projects that have a real use case or are a
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-<img src="https://cdn.brandfetch.io/idiqrYE5Wz/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="28">
 
 ---
 
