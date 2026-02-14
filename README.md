@@ -7,6 +7,8 @@ Anddd I love science, math, especially with a cup of coffe at 3 AM😊
 
 Here i'm trying to build open-source projects that have a real use case or are at least educational👍
 
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=madrlibr)
+
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -27,4 +29,4 @@ Here i'm trying to build open-source projects that have a real use case or are a
 ## Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madrlibr&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Streak" />
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=madrlibr)
+
