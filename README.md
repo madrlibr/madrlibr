@@ -2,10 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20adrr!%20👋&fontSize=70&animation=fadeIn" />
 </p>
 
-I'm currently learning AI/ML and Software Engineering lads.
-Anddd I love science, math, especially with a cup of coffe at 3 AM😊
+I'm currently learning AI/ML and Software Engineering.
+Anddd I love science, math, art, especially with a cup of coffe at 3 AM😊
 
-Here i'm trying to build open-source projects that have a real use case or are at least educational👍
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=madrlibr)
 
@@ -22,6 +21,10 @@ Here i'm trying to build open-source projects that have a real use case or are a
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ---
 
